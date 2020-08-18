@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/GetsEezyWeb/static/css/main.64ec3361.chunk.css",
+    "main.js": "/GetsEezyWeb/static/js/main.a3c2d1ff.chunk.js",
+    "main.js.map": "/GetsEezyWeb/static/js/main.a3c2d1ff.chunk.js.map",
+    "runtime-main.js": "/GetsEezyWeb/static/js/runtime-main.f5e0cefc.js",
+    "runtime-main.js.map": "/GetsEezyWeb/static/js/runtime-main.f5e0cefc.js.map",
+    "static/js/2.43f08525.chunk.js": "/GetsEezyWeb/static/js/2.43f08525.chunk.js",
+    "static/js/2.43f08525.chunk.js.map": "/GetsEezyWeb/static/js/2.43f08525.chunk.js.map",
+    "index.html": "/GetsEezyWeb/index.html",
+    "precache-manifest.065ebbdb3d016ea62e025c30cab6f6ff.js": "/GetsEezyWeb/precache-manifest.065ebbdb3d016ea62e025c30cab6f6ff.js",
+    "service-worker.js": "/GetsEezyWeb/service-worker.js",
+    "static/css/main.64ec3361.chunk.css.map": "/GetsEezyWeb/static/css/main.64ec3361.chunk.css.map",
+    "static/js/2.43f08525.chunk.js.LICENSE": "/GetsEezyWeb/static/js/2.43f08525.chunk.js.LICENSE",
+    "static/media/5Y.png": "/GetsEezyWeb/static/media/5Y.57e0e846.png",
+    "static/media/getseezyLogo.png": "/GetsEezyWeb/static/media/getseezyLogo.9bea7cb9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5e0cefc.js",
+    "static/js/2.43f08525.chunk.js",
+    "static/css/main.64ec3361.chunk.css",
+    "static/js/main.a3c2d1ff.chunk.js"
+  ]
+}
